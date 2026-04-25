@@ -2,6 +2,10 @@
 
 A simple React + Firebase app for managing reusable step-by-step processes.
 
+## Website
+
+[How To Archive](howto-archive.web.app)
+
 ## What is this?
 
 This app helps you store and reuse "how-to" workflows (called TCTs — Tasks, Categories, Topics).
@@ -36,11 +40,3 @@ Each TCT contains:
 - Firebase (Firestore)
 
 ---
-
-## Setup Instructions
-
-1. Clone the repo
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
